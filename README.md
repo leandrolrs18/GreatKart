@@ -1,0 +1,2 @@
+# GreatKart
+Django project
